@@ -9,7 +9,14 @@ Au cours de ette première journée nous allons chercher à bien comprendre DevO
 
 ## C'est quoi DevOps ? 
 
-DevOps est un ensemble de pratiques, philosophies culturelles et outils qui permettent à une équipe ou une organisation de livrer des applications plus rapidement.
+DevOps est une culture qui améliore la capacité d'une organisation à produire des applications et des services à une grande vitesse Il est ainsi question de développer et améliorer les produits à un rythme plus rapide que les processus traditionnels de développement d’applications. Grâce à cette rapidité, ces organisations peuvent mieux satisfaire leurs clients et être plus compétitives sur le marché.
 
-De façon traditionnelle, les équipes de développement et d'exploitation travaillent séparément, ce qui empêche la capacité d'agir rapidement. DevOps est né pour apporter une solution à la relation parfois conflictuelle entretenue par ces équipes. L'idée derrière cette expression "sexy" est simple : vos équipes de développement et d'exploitation doivent pouvoir travailler ensemble pour plus d'efficacité. Ce mouvement préconise une meilleure communication et une meilleure collaboration afin que le développement, les tests, la livraison et l'exécution des applications puissent se faire plus rapidement et de manière plus fiable. Par exemple, au lieu de livrer de grosses versions à une fréquence faible (une fois tous les 6 mois) comme les équipes de développement traditionnelles des grandes entreprises, DevOps adopte une approche de "livraison continue".
-Il s'agit de livrer régulièrement de petites évolutions incrémentielles, souvent même plusieurs fois par jour.
+Avec DevOps, les équipes de développement et d'exploitation ne sont plus "cloisonnées". Au lieu de cela, elles sont regroupées en une seule équipe où les ingénieurs travaillent tout au long du cycle de vie des applications (développement, tests, déploiement, etc.) et développent un ensemble de compétences diverses qui ne sont pas limitées à un seul rôle.
+
+Dans certains modèles DevOps, les équipes d'assurance qualité et de sécurité peuvent s'aligner plus étroitement sur le développement et les opérations, ainsi que sur l'ensemble du cycle de vie des applications. Lorsque tous les membres d'une équipe DevOps se concentrent sur la sécurité, on parle de DevSecOps.
+
+
+## Liens utiles 
+
+- [DevOps expliqué en emojis](https://www.youtube.com/watch?v=M6F6GWcGxLQ)
+- [Comprendre DEVOPS en 5 minutes](https://www.youtube.com/watch?v=LYYeC5sgQos)
