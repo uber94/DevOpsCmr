@@ -1,8 +1,3 @@
----
-Titre : '#DevOpsCmr - jour 01'
-description: DevOpsCmr - Introduction
-tags: 'devops, DevOpsCmr, formation'
----
 ## Jour 01 - Introduction
 
 Au cours de ette première journée nous allons chercher à bien comprendre DevOps et les outils qui nous aideront à adopter au mieux cette culture.
