@@ -1,6 +1,6 @@
-## Jour 01 - Introduction
+## Partie 01 - Introduction
 
-Au cours de ette première journée nous allons chercher à bien comprendre DevOps et les outils qui nous aideront à adopter au mieux cette culture.
+Dans cette première partie nous allons chercher à bien comprendre DevOps et les outils qui nous aideront à adopter au mieux cette culture.
 
 ## C'est quoi DevOps ? 
 
