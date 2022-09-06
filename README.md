@@ -5,4 +5,4 @@
 </p>
 
 
-- 1 ] [C'est Quoi DevOps ?](partie/partie01.md)
+- 1 ] [C'est Quoi DevOps ?](parties/partie01.md)
