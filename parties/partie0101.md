@@ -16,7 +16,7 @@ Le développement de logiciels est principalement mené par des programmeurs, de
 
 Les programmeurs, ou codeurs, écrivent le code source afin de programmer des ordinateurs pour des tâches spécifiques telles que la fusion de bases de données, le traitement en ligne de commandes ou l'affichage de textes et de graphiques. Les programmeurs interprètent généralement les instructions des développeurs et des ingénieurs logiciels et utilisent des langages de programmation comme C++ ou Java pour les exécuter.
 
-Le travail de développement de logiciels ne se limite pas aux codeurs ou aux équipes de développement. Des professionnels tels que les scientifiques, les fabricants d'appareils et de matériel créent également du code logiciel, même s'ils ne sont pas principalement des développeurs de logiciels. Il ne se limite pas non plus aux industries traditionnelles des technologies de l'information, comme les entreprises de logiciels ou de semi-conducteurs. En fait, selon le Brookings Institute (le lien ne se trouve pas sur le site ibm.com), ces entreprises "représentent moins de la moitié des entreprises qui développent des logiciels".
+Le travail de développement de logiciels ne se limite pas aux codeurs ou aux équipes de développement. Des professionnels tels que les scientifiques, les fabricants d'appareils et de matériel créent également du code logiciel, même s'ils ne sont pas principalement des développeurs de logiciels. Il ne se limite pas non plus aux industries traditionnelles des technologies de l'information, comme les entreprises de logiciels ou de semi-conducteurs.
 
 
 ## Liens utiles 
