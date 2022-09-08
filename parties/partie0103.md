@@ -22,7 +22,7 @@ Gestion de l'annuaire
 
 Certaines de ces responsabilités traditionnelles ont changé au cours des dernières années. La virtualisation et le cloud ont considérablement simplifié les décisions d'achat, l'installation et la configuration. Par exemple, plus personne ne se soucie du type de serveur que nous allons acheter pour une application ou un projet spécifique. D'autre part, nous pouvons acheter de grands serveurs que nous virtualisons et redimensionnons. Le cloud computing simplifie encore plus les choses en éliminant la nécessité d'acheter des serveurs.
 
-Alors quelle partie des tâches "Ops" les développeurs devraient-ils assumer ?
+Alors quelle partie des tâches "Ops" les développeurs peuvent-ils réaliser ?
 
 - Participer à la sélection de la stack applicative
 - configurer et déployer des serveurs virtuels ou en nuage (potentiellement)
