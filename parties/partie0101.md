@@ -1,4 +1,4 @@
-## Partie 01 - point n°1 Comprendre le développement
+## Partie 01 - point n°1 : Comprendre le développement
 
 Le développement désigne un ensemble d'activités consacrées au processus de création, de conception, de déploiement et de support de logiciels.
 
