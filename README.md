@@ -6,7 +6,7 @@
 
 **SOMMAIRE**
 
-***Introduction au DevOps***
+**Introduction au DevOps**
 
 INTRO [C'est Quoi DevOps ?](assets/pages/partie1/intro.md)
 1. POINT 1 [Comprendre le développement](assets/pages/partie1/point1.md)
