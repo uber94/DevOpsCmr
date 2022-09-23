@@ -1,4 +1,4 @@
-## Partie 01 - Comprendre le développement
+## Point n°1 : Comprendre le développement
 
 Le développement désigne un ensemble d'activités consacrées au processus de création, de conception, de déploiement et de support de logiciels.
 
@@ -24,3 +24,5 @@ Le travail de développement de logiciels ne se limite pas aux codeurs ou aux é
 - [What is Software Development](https://www.youtube.com/watch?v=pquPUX1EihM)
 
 - [What is software development ?](https://www.ibm.com/topics/software-development#:~:text=Software%20development%20refers%20to%20a,a%20computer%20what%20to%20do.)
+
+Rendez-vous au [point n°2](assets/pages/partie1/point2.md)
