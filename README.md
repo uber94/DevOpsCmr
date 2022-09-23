@@ -1,7 +1,7 @@
 # DevOpsCmr - Parcours DevOps
 
 <p align="center">
- <img src="logo.png?raw=true" alt="DevOpsCmr Logo" width="50%" height="50%" />
+ <img src="assets/img/logo.png?raw=true" alt="DevOpsCmr Logo" width="50%" height="50%" />
 </p>
 
 **SOMMAIRE**
