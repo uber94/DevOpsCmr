@@ -25,4 +25,4 @@ Le travail de développement de logiciels ne se limite pas aux codeurs ou aux é
 
 - [What is software development ?](https://www.ibm.com/topics/software-development#:~:text=Software%20development%20refers%20to%20a,a%20computer%20what%20to%20do.)
 
-Rendez-vous au [point n°2](assets/pages/partie1/point2.md)
+Rendez-vous au [point n°2](point2.md)

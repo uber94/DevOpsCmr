@@ -2,7 +2,7 @@
 
 Le cycle de vie du développement logiciel est un processus de planification, de construction, de test et de déploiement de systèmes d'information sur le plan matériel et logiciel.
 
-Comme vu au [point 1](assets/pages/partie1/point1.md), le développement logiciel désigne un ensemble d'activités consacrées au processus de création, de conception, de déploiement et de support de logiciels. Le "SDLC" permet d'analyser les développements à chaque étape.
+Comme vu au [point 1](point1.md), le développement logiciel désigne un ensemble d'activités consacrées au processus de création, de conception, de déploiement et de support de logiciels. Le "SDLC" permet d'analyser les développements à chaque étape.
 
 Le SDLC décrit  chaque tâche nécessaire à la création et au déploiement d'une application.. Le suivi qui fait partie du SDLC permet de s'assurer que tout se déroule dans les temps, que les budgets sont respectés et que l'application reste un investissement rentable. Le SDLC est souvent décrit comme s'appuyant sur les approches Agile ou Waterfall, et de nombreuses organisations utilisent un mélange des deux.
 
@@ -30,4 +30,4 @@ Le choix de la bonne méthodologie pour vos projets dépendra de vos préférenc
 - [What is the software development life cycle (SDLC)?](https://www.servicenow.com/products/devops/what-is-sdlc.html)
 
 
-Rendez-vous au [point n°3](assets/pages/partie1/point3.md)
+Rendez-vous au [point n°3](point3.md)

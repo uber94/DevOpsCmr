@@ -35,4 +35,4 @@ Que font alors les Ops la plupart du temps aujourd'hui ?
 - [Defining the Dev and the Ops in Devops](https://devops.com/defining-the-dev-and-the-ops-in-devops/)
 
 
-Rendez-vous au [point n°4](assets/pages/partie1/point4.md)
+Rendez-vous au [point n°4](point4.md)
