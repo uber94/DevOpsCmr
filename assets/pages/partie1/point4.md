@@ -1,6 +1,6 @@
 ## Point n°4 : Dev Vs Ops
 
-Les développeurs et responsables des opérations n'ont pas les mêmes priorités la plupart du temps, Elles sont même souvent complètement opposées. Si leur objectif ultime est de faire en sorte que l'utilisateur soit satisfait des systèmes qu'ils fournissent, leurs points de vue sur la manière de le faire tendent à être intrinsèquement opposés. Voici comment ils aimeraient s'y prendre, et c'est ce qui fait la différence.
+Les développeurs et responsables des opérations n'ont pas les mêmes priorités la plupart du temps, elles sont même souvent complètement opposées. Si leur objectif ultime est de faire en sorte que l'utilisateur soit satisfait des systèmes qu'ils fournissent, leurs points de vue sur la manière de le faire tendent à être intrinsèquement opposés.
 
 
 | Dev  | Ops |
