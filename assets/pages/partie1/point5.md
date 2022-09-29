@@ -5,8 +5,7 @@ La solution à cette bataille entre Dev et Ops est ce qu'est le DevOps et les pr
 | en tant que Dev, je devrais  | en tant qu'Ops, je devrais |
 | :---------------: | :-----:|
 | travailler avec les Ops pour comprendre l'infratruscture sur laquelle ll'application sera exécutée
-comprendre l'architecture de notre système | connaître les évolutions à venir et leur impact sur le système |
-
+comprendre l'architecture de notre système | connaître les évolutions à venir et leur impact sur le système|
 
 comprendre comment les modifications de mon code peuvent avoir un impact sur l'environnement de production et pas que sur l'application
 
