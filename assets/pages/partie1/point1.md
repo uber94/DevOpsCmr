@@ -1,4 +1,4 @@
-## Point n°1 : Comprendre le développement
+## Point n°1 : Comprendre le développement (Dev)
 
 Le développement désigne un ensemble d'activités consacrées au processus de création, de conception, de déploiement et de support de logiciels.
 
