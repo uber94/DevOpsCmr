@@ -13,7 +13,8 @@ m'impliquer davantage dans les tests pour m'assurer que mon code fonctionne corr
 comment il se comportera en production. Cette phase nécessite une collaboration étroite avec l'équipe d'assurance qualité (QA) pour tester l'application dans un environnement similaire à celui de la production (iso-Prod)
 apprendre à surveiller les applications déployées et à comprendre les mesures dont les Ops se soucient généralement (consommation RAM/CPU, Latence, etc.)
 être capable de comprendre l'interaction l'intéractiion entre différentes briques applicatives et/ou du système
-plus communiquer avec Ops |connaître les évolutions à venir et leur impact sur le système
+plus communiquer avec Ops
+| connaître les évolutions à venir et leur impact sur le système
 travailler avec le Dev dès la phase de définition des exigences et des spécifications du projet
 m'assurer que le système peut accueillir de nouvelles évolutions sur l'applications au fur et à mesure qu'elles arrivent
 automatiser la gestion du système, car il est difficile, voir impossible de réaliser des changements rapides tout en assurant la stabilité des systèmes sans automatisation. L'automatisation permettra non seulement des changements rapides, mais aussi des retours arrière rapides, en cas de problème pendant le déploiement
