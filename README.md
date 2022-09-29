@@ -13,3 +13,4 @@
 3. [Comprendre les opérations informatiques (Ops)](assets/pages/partie1/point3.md)
 4. [Dev vs Ops](assets/pages/partie1/point4.md)
 5. [Dev et Ops](assets/pages/partie1/point5.md)
+6. [C'est quoi DevOps ?](assets/pages/partie1/point6.md)
