@@ -1,4 +1,4 @@
-## Point n°4 : Dev et Ops
+## Point n°5 : Dev et Ops
 
 La solution à la bataille entre Dev et Ops est ce qu'est le DevOps et les pratiques qui le composent : atteindre l'équilibre entre innovation et stabilité. Dev et Ops doivent tous deux changer leur mode de fonctionnement et mieux s'aligner.
 
