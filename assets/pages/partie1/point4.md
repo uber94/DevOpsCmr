@@ -1,4 +1,4 @@
-## Point n°4 : Dev Vs Ops
+## Point n°4 : Dev vs Ops
 
 Les développeurs et les professionnels des opérations avaient des objectifs distincts, souvent complètement opposés, une direction de service distincte, des indicateurs de performance clés distincts et travaillaient souvent à des étages différents, voire dans des bâtiments différents. Il en résultait des équipes cloisonnées qui ne se préoccupaient que de leurs propres fiefs, des heures de travail interminables, des versions bâclées et des clients mécontents.
 
