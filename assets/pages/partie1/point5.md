@@ -8,7 +8,9 @@ La solution à cette bataille entre Dev et Ops est ce qu'est le DevOps et les pr
 comprendre l'architecture de notre système | connaître les évolutions à venir et leur impact sur le système |
 
 
-| comprendre comment les modifications de mon code peuvent avoir un impact sur l'environnement de production et pas que sur l'application  | travailler avec le Dev dès la phase de définition des exigences et des spécifications du projet |
+comprendre comment les modifications de mon code peuvent avoir un impact sur l'environnement de production et pas que sur l'application
+
+travailler avec le Dev dès la phase de définition des exigences et des spécifications du projet
 
 | Comprendre les propriétés de l'environnement de production et comment mon applications doivent s'y comporter  | m'assurer que le système peut accueillir de nouvelles évolutions sur l'applications au fur et à mesure qu'elles arrivent |
 
