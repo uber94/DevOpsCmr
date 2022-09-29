@@ -2,12 +2,12 @@
 
 La solution à cette bataille entre Dev et Ops est ce qu'est le DevOps et les pratiques qui le composent : atteindre l'équilibre entre innovation et stabilité. Dev et Ops doivent tous deux changer leur mode de fonctionnement et mieux s'aligner.
 
-| en tant que Dev, je devrais  | En tant qu'Ops, je devrais |
+| en tant que Dev, je devrais  | en tant qu'Ops, je devrais |
 | :---------------: | :-----:|
-| - travailler avec les Ops pour comprendre l'infratruscture sur laquelle ll'application sera exécutée
-- comprendre l'architecture de notre système
-- comprendre comment les modifications de mon code peuvent avoir un impact sur l'environnement de production et pas que sur l'application
-- Comprendre les propriétés de l'environnement de production et comment mon applications doivent s'y comporter
+| travailler avec les Ops pour comprendre l'infratruscture sur laquelle ll'application sera exécutée
+comprendre l'architecture de notre système
+comprendre comment les modifications de mon code peuvent avoir un impact sur l'environnement de production et pas que sur l'application
+Comprendre les propriétés de l'environnement de production et comment mon applications doivent s'y comporter
 - comprendre sous quelles contraintes mon application doit fonctionner
 - m'impliquer davantage dans les tests pour m'assurer que mon code fonctionne correctement et observer comment il se comportera en production. Cette phase nécessite une collaboration étroite avec l'équipe d'assurance qualité (QA) pour tester l'application dans un environnement similaire à celui de la production (iso-Prod)
 - apprendre à surveiller les applications déployées et à comprendre les mesures dont les Ops se soucient généralement (consommation RAM/CPU, Latence, etc.)
