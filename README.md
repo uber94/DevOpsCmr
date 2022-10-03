@@ -35,3 +35,38 @@ Le but de ce repo est de partager avec vous les étapes par lesquelles je suis p
 10. [Outils utiles]()
 11. [Statistiques systèmes et matériels]()
 12. [Gestion des services et des processus]()
+
+**Partie 3: Notions de base sur les réseaux**
+
+1. [Composants d'un réseau informatique]()
+2. [classification des réseaux]()
+3. [Switchs et routeurs]()
+4. [Architecture du réseau]()
+5. [Protocoles]()
+6. [Numéros de port]()
+7. [DNS]()
+8. [DHCP]()
+9. [Adresses IP]()
+
+
+**Partie 4: la virtualisation**
+
+1. [Introduction à la virtualisation]()
+2. [Les hyperviseurs]()
+3. [VirtualBox]()
+4. [Vagrant]()
+5. [Vagrant sur Windows]()
+6. [Vagrant sur Linux]()
+7. [Vagrant Cloud]()
+8. [Automatisation de machines virtuelles]()
+9. [Configuration de Vagrant et virtualBox pour Labs]()
+
+**Partie 5: Cloud Computing**
+
+***AWS***
+
+***GCP***
+
+***Azure***
+
+
