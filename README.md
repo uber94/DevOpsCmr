@@ -17,3 +17,21 @@ Le but de ce repo est de partager avec vous les étapes par lesquelles je suis p
 5. [Dev et Ops](assets/pages/partie1/point5.md)
 6. [C'est quoi DevOps ?](assets/pages/partie1/point6.md)
 7. [Cycle de vie de DevOps]()
+8. [La livraison continue]()
+9. [Outils DevOps]()
+10. [Rôles et responsabilités d'un DevOps]()
+
+**Partie 2: Systèmes d'exploitation et virtualisation**
+
+1. [Introduction à Linux]()
+2. [Utilitaires en ligne de commande et commandes de base]()
+3. [Système de fichiers Linux]()
+4. [Editeur de texte]()
+5. [Redirections et filtres I/O]()
+6. [Gestion des utilisateurs et groupes]()
+7. [Permissions et propriétés des fichiers]()
+8. [Sudo]()
+9. [Gestion applicative]()
+10. [Outils utiles]()
+11. [Statistiques systèmes et matériels]()
+12. [Gestion des services et des processus]()
