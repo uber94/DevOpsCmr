@@ -76,7 +76,7 @@ Le but de ce repo est de partager avec vous les étapes par lesquelles je suis p
 3. [Mise en plâce d'un dépôt Git]()
 4. [Gérez son code source avec Git et GITHUB]()
 
-**Partie 7: Intéhration continue avec Jenkins**
+**Partie 7: Intégration continue avec Jenkins**
 
 1. [Introduction à l'intégration continue]()
 2. [Build et release]()
