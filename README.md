@@ -63,10 +63,32 @@ Le but de ce repo est de partager avec vous les étapes par lesquelles je suis p
 
 **Partie 5: Cloud Computing**
 
-***AWS***
+**AWS**
 
-***GCP***
+**GCP**
 
-***Azure***
+**Azure**
 
+**Partie 6: Système de contrôle des versions avec Git**
+
+1. [Comprendre les Systèmes de contrôle de version et leur importance]()
+2. [Les VCS dans le DevOps]()
+3. [Mise en plâce d'un dépôt Git]()
+4. [Gérez son code source avec Git et GITHUB]()
+
+**Partie 7: Intéhration continue avec Jenkins**
+
+1. [Introduction à l'intégration continue]()
+2. [Build et release]()
+3. [Introduction à Jenkins et configuration]()
+4. [Projets et Jobs Jenkins]()
+5. [Plugins Jenkins]()
+6. [Administration de Jenkins (noeuds, utilisateurs, plugins)]()
+7. [L'outil de buil Maven]()
+9. [Mise en place d'un job/projet de build et de release]()
+10. [Mise en place d'un job/projet d'intégration continue]()
+11. [Nexus]()
+12. [Mise en place d'un projet Jenkins complet]()
+
+**Partie 8: Ansible**
 
