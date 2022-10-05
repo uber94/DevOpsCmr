@@ -69,6 +69,8 @@ Le but de ce repo est de partager avec vous les étapes par lesquelles je suis p
 
 **Azure**
 
+**ST DIGITAL**
+
 **Partie 6: Système de contrôle des versions avec Git**
 
 1. [Comprendre les Systèmes de contrôle de version et leur importance]()
