@@ -13,3 +13,6 @@ La solution à la bataille entre Dev et Ops est ce qu'est le DevOps et les prati
 |m'impliquer davantage dans les tests pour m'assurer que mon code fonctionne correctement et observer comment il se comportera en production. Cette phase nécessite une collaboration étroite avec l'équipe d'assurance qualité (QA) pour tester l'application dans un environnement similaire à celui de la production (iso-Prod)  | tout surveiller, dans les différents environnements (développement, test, réproduction, production) devant héberger l'application |
 | apprendre à surveiller les applications déployées et à comprendre les mesures dont les Ops se soucient généralement (consommation RAM/CPU, Latence, etc.)  | être capable de repérer une instabilité potentielle avant qu'elle ne se produit, via du monitoring et de l'alerting |
 | plus communiquer avec Ops  | plus communiquer avec les Dev |
+
+
+## Liens utiles 

@@ -26,3 +26,5 @@ Le feedback continu est comme un rapport d'avancement. Dans cette étape DevOps,
 Étape 7) Opérations continues :
 Il s'agit de la dernière phase de DevOps, la plus courte et la plus simple. Elle implique également l'automatisation de la livraison de l'application et toutes les mises à jour. Cela contribue à maintenir des cycles courts et à dégager du temps aux développeurs afin qu'ils se concentrent sur les développements.
 
+
+## Liens utiles 

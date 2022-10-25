@@ -18,3 +18,5 @@ Les Ops connaissaient cette date et avaient suffisamment de temps pour tester le
 DevOps a changé cette façon de travailler avec l'intégration continue (CI) et la livraison continue (CD), les développeurs publient désormais leurs fonctionnalités quotidiennement. Les développeurs veulent désormais que leurs fonctionnalités soient disponibles et opérationnelles (sur les environnements de développement, de test et de production) à la même fréquence que celle à laquelle ils les produisent et intègrent.
 
 L'Ops doit maintenant gérer non pas une version de temps en temps, mais plusieurs versions régulièrement. Ces versions issus des builds peuvent ou non être prêts à être déployés, mais doivent être gérés par l'Ops et déployés dans des environnements de test et éventuellement de production. Les services d'exploitation se soucient désormais davantage de la qualité. Ils ne souhaitent pas que des fonctionnalités qui n'ont pas été correctement testés l'environnement de production. Il n'est plus nécessaire de prendre plusieurs jours pour déployer des fonctionnalités une fois qu'elles sont testées avec succès. Cependant, la stabilité doit être maintenue.
+
+## Liens utiles 

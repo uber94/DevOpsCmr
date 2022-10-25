@@ -94,3 +94,16 @@ Le but de ce repo est de partager avec vous les étapes par lesquelles je suis p
 
 **Partie 8: Ansible**
 
+1. [Gestion de configurations et automatisation]()
+2. [Ansible c'est quoi ?]()
+3. [Architecture d'Ansible]()
+4. [Inventaires]()
+5. [Commandes Ah-Hoc]()
+6. [Introduction au Playbook]()
+7. [Configuration avec ansible.cfg]()
+9. [Documentation Ansible]()
+10. [Modules]()
+11. [Ecriture d'un playbook pour le déploiement d'un serveur web et d'un serveur de Base de données]()
+12. [Rôles Ansible]()
+13. [Ansible Galaxy]()
+14. [Paramétrages avancés]()
