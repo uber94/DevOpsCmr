@@ -1,30 +1,52 @@
 
-## Point n°7 : Cycle de vie de DevOps 
+## Point n°7 : Principes de la démarche DevOps
 
-Le cycle de vie DevOps est une série d'étapes de développement qui nous guide tout au long du processus de développement logiciel. Tous ces éléments sont nécessaires pour tirer le meilleur parti de la méthodologie DevOps.
+<p align="center">
+ <img src="../../img/devops-principles.png?raw=true" alt="DevOpsCmr Logo" width="50%" height="50%" />
+</p>
 
-### Composants du cycle de vie de DevOps 
 
-Étape 1) Développement continu :
-Cette pratique couvre les phases de planification et d'écriture de code.
+DevOps est un ensemble de principes mis en œuvre par les équipes de développement et d'exploitation pour fournir des applications de haute qualité en un temps record. Dans Agile, les Dev et Ops travaillent en silos, ce qui a un impact négatif sur la productivité globale de l'organisation. DevOps résout ce problème en intégrant le développement et les opérations dans une même équipe qui travaille ensemble pour atteindre un objectif commun.
 
-Étape 2) Intégration continue :
-Cette pratique consiste à intégrer du nouveau code applicatif fréquemment. Elle permet de s'assurer que les modifications du code source n'interrompent pas les constructions (builds) ou ne causent pas d'autres problèmes.
+Voici les principes et pratiques qui peuvent vous aider à tirer le meilleur parti de DevOps:
 
-Étape 3) Test continu :
-Cette étape du cycle de vie DevOps intègre des tests de code automatisés, préprogrammés et continus à mesure que le code de l'application est écrit ou mis à jour. Ces tests peuvent être écrits manuellement ou via d'autres outils.
 
-Étape 4) Déploiement continu :
-Le processus de déploiement se déroule en continu dans cette phase du cycle de vie DevOps. Il est effectué de manière à ce que les modifications apportées au code n'affectent pas le fonctionnement de l'application.
+1. versions incrémentales
 
-Étape 5) Surveillance continue :
-Au cours de cette phase, les développeurs collectent des données, surveillent chaque fonction et repèrent les erreurs telles que le manque de mémoire ou la rupture de la connexion au serveur.
+Les développeurs sont encouragés par DevOps à soumettre du nouveau code aussi fréquemment que possible, généralement plusieurs fois par jour. Dans un environnement DevOps, un projet unique est divisé en morceaux digestes et les équipes contribuent au code de manière incrémentielle. Il est ainsi plus facile de corriger un code erronné avant qu'il ne soit utilisé en production. Les équipes DevOps génèrent des mises à jour de code et des corrections de bugs sur une base quotidienne, hebdomadaire ou mensuelle selon le processus.
 
-Étape 6) feedback continu :
-Le feedback continu est comme un rapport d'avancement. Dans cette étape DevOps, le logiciel envoie automatiquement des informations sur les performances et les problèmes rencontrés par l'utilisateur final. C'est aussi l'occasion pour les clients de partager leurs expériences et de donner leur avis.
+2. automatisation
 
-Étape 7) Opérations continues :
-Il s'agit de la dernière phase de DevOps, la plus courte et la plus simple. Elle implique également l'automatisation de la livraison de l'application et toutes les mises à jour. Cela contribue à maintenir des cycles courts et à dégager du temps aux développeurs afin qu'ils se concentrent sur les développements.
+L'une des pratiques essentielles de DevOps consiste à automatiser autant que possible le processus de développement logiciel. L'automatisation des flux de travail permet aux développeurs de se concentrer uniquement sur l'écriture du code et le développement de nouvelles fonctionnalités. Tout ce qui peut être automatisé devrait l'être dans un environnement DevOps. Dans cet environnement, les équipes utilisent l'Infrastructure-as-Code (IaC). 
+
+
+3. Pipeline
+
+DevOps vise à établir un système reproductible, une boucle qui facilite la continuité du développement. Pour y parvenir, les équipes DevOps créent des pipelines. Un pipeline désigne un système répétable composé d'étapes par lesquelles le code doit passer avant d'être déployé en production.
+
+4. intégration continue
+
+Dans un pipeline DevOps, l'intégration continue(CI) est essentielle. Elle encourage les développeurs à "pousser" leur code plusieurs fois par jour dans un dépôt de code principal. Il est nettement moins probable qu'un code défectueux progresse dans le pipeline et perturbe le service lorsque de petits morceaux de code sont intégrés fréquemment. Plusieurs fois par jour, certaines des plus grandes entreprises qui utilisent les pratiques DevOps livrent du nouveau code.
+
+5. livraison continue
+
+La Livraison continue (CD) consiste à publier des mises à jour de code fréquemment et rapidement. La CD s'appuie sur les développeurs pour déployer manuellement le code en production, contrairement au déploiement continu(CD aussi ^^), qui adopte une approche automatisée de la publication du code. Pour que la livraison continue donne des résultats positifs, il est primordial de créer un système reproductible qui fera passer le code par le pipeline DevOps.
+
+6. surveillance continue
+
+Elle renforce le CI/CD et assure un fonctionnement irréprochable de l'application. Pour surveiller le comportement d'une application, les équipes DevOps utilisent plusieurs outils et méthodes. Les logs, les applications, les systèmes et l'infrastructure sont tous surveillés par ces équipes. Elles peuvent remettre le programme dans un état antérieur(Rollback) lorsqu'un bug est découvert.
+
+7. partage d'informations
+
+DevOps se nourrit du retour d'informations. Les développeurs ont besoin d'informations exploitables provenant de différentes sources pour les aider à améliorer la qualité globale de l'application. En l'absence de retour d'information, les équipes DevOps risquent de perdre du temps à construire des produits qui n'apportent aucune valeur aux parties prenantes ou aux clients.
+
+8. contrôle de versions
+
+Cet élément est au cœur de tout workflow DevOps réussi, car il aide les équipes à rester organisées, concentrées et au courant de ce que font ses membres. Le contrôle de versions est également crucial pour garantir que les équipes collaborent plus rapidement et plus facilement afin de prendre en charge les versions applicatives fréquentes.
+
+9. collaboration
+
+L'instauration de la confiance entre les développeurs et les opérations est le principe fondamental de DevOps. Tout au long du cycle de développement et de déploiement, les équipes Dev et Ops doivent interagir, échanger des idées et travailler ensemble. Les deux parties sont chargées de veiller à ce que l'application fournisse le service attendu. Pour ce faire, les performances, les coûts et la prestation de services doivent être optimisés et améliorés en permanence, tout en maintenant la satisfaction du client.
 
 
 ## Liens utiles 

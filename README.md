@@ -16,7 +16,7 @@ Le but de ce repo est de partager avec vous les étapes par lesquelles je suis p
 4. [Dev vs Ops](assets/pages/partie1/point4.md)
 5. [Dev et Ops](assets/pages/partie1/point5.md)
 6. [C'est quoi DevOps ?](assets/pages/partie1/point6.md)
-7. [Cycle de vie de DevOps]()
+7. [Principes de la démarche DevOps](assets/pages/partie1/point7.md)
 8. [La livraison continue]()
 9. [Outils DevOps]()
 10. [Rôles et responsabilités d'un DevOps]()
