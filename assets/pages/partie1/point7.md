@@ -2,7 +2,7 @@
 ## Point n°7 : Principes de la démarche DevOps
 
 <p align="center">
- <img src="assets/img/devops-principles.png?raw=true" alt="DevOpsCmr Logo" width="50%" height="50%" />
+ <img src="../../img/devops-principles.png?raw=true" alt="DevOpsCmr Logo" width="50%" height="50%" />
 </p>
 
 
