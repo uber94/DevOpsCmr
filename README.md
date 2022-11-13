@@ -17,9 +17,16 @@ Le but de ce repo est de partager avec vous les étapes par lesquelles je suis p
 5. [Dev et Ops](assets/pages/partie1/point5.md)
 6. [C'est quoi DevOps ?](assets/pages/partie1/point6.md)
 7. [Principes de la démarche DevOps](assets/pages/partie1/point7.md)
-8. [La livraison continue]()
-9. [Outils DevOps]()
-10. [Rôles et responsabilités d'un DevOps]()
+8. [Objectifs de DevOps]()
+9. [Agile et DevOps]()
+10. [Approche traditionnelle en silos]()
+11. [DevOps et automatisation]()
+12. [Intégration continue]()
+13. [Livraison et déploiement continus]()
+14. [Le CICD et ses avantages]()
+15. [Outils DevOps]()
+16. [Les types de tests]()
+17. [Rôles et responsabilités d'un DevOps]()
 
 **Partie 2: Systèmes d'exploitation et virtualisation**
 
@@ -61,7 +68,36 @@ Le but de ce repo est de partager avec vous les étapes par lesquelles je suis p
 8. [Automatisation de machines virtuelles]()
 9. [Configuration de Vagrant et virtualBox pour Labs]()
 
-**Partie 5: Cloud Computing**
+**Partie 5: La conteneurisation - Docker**
+
+1. [C'est quoi un conteneur]()
+2. [introduction à Docker]()
+3. [Architecture et composants de Docker]()
+4. [Principales coommlandes de Docker]()
+5. [Docker compose]()
+6. [Dockerfile]()
+7. [Dépôt privé Docker]()
+8. [Volumes Docker]()
+9. [Cas pratique]()
+
+**Partie 6: La conteneurisation - Kubernetes**
+
+1. [Introduction à Kubernetes]()
+2. [Composants principaux de Kubernetes]()
+3. [Architecture de Kubernetes]()
+4. [Présentation de kubectl et commandes principales]()
+5. [Le Namespaces]()
+6. [Le services]()
+7. [L'Ingress]()
+8. [Les volumes]()
+9. [Configmap et Secrets]()
+10. [Statefulset]()
+11. [Services Kubernetes Managés]()
+12. [Authorisations avec RBAC]()
+13. [Le gestionnaire de paquets Helm]()
+14. [Cas pratique]()
+
+**Partie 7: Cloud Computing**
 
 **AWS**
 
@@ -71,14 +107,28 @@ Le but de ce repo est de partager avec vous les étapes par lesquelles je suis p
 
 **ST DIGITAL**
 
-**Partie 6: Système de contrôle des versions avec Git**
+**Partie 8: l'IaC: Terraform**
+
+1. [L'infrastructure As Code]()
+2. [Introduction à Terraform]()
+3. [Installation et configuration]()
+4. [Les providers]()
+5. [Ressources et sources de données]()
+6. [Commandes principales avec Terraform]()
+7. [Le Terraform State]()
+8. [Les outputs]()
+9. [Les variables]()
+10. [Les modules Terraform]()
+11. [Cas pratique]()
+
+**Partie 9: Système de contrôle des versions avec Git**
 
 1. [Comprendre les Systèmes de contrôle de version et leur importance]()
 2. [Les VCS dans le DevOps]()
 3. [Mise en plâce d'un dépôt Git]()
 4. [Gérez son code source avec Git et GITHUB]()
 
-**Partie 7: Intégration continue avec Jenkins**
+**Partie 10: Intégration continue avec Jenkins**
 
 1. [Introduction à l'intégration continue]()
 2. [Build et release]()
@@ -92,7 +142,7 @@ Le but de ce repo est de partager avec vous les étapes par lesquelles je suis p
 11. [Nexus]()
 12. [Mise en place d'un projet Jenkins complet]()
 
-**Partie 8: Ansible**
+**Partie 11: Ansible**
 
 1. [Gestion de configurations et automatisation]()
 2. [Ansible c'est quoi ?]()
@@ -107,3 +157,40 @@ Le but de ce repo est de partager avec vous les étapes par lesquelles je suis p
 12. [Rôles Ansible]()
 13. [Ansible Galaxy]()
 14. [Paramétrages avancés]()
+
+**Partie 12: Monitoring - Prometheus et Grafana**
+
+1. [Monitoring continu]()
+2. [Objectifs du Monitoring continu]()
+3. [Avantages du Monitoring continu]()
+4. [Types de monitoring]()
+5. [C'est quoi Prometheus ?]()
+6. [C'est quoi Grafana ?]()
+7. [Cas pratique]()
+
+**Partie 13: Apprendre DevOps sur Youtube**
+
+1. [eazytraining](https://www.youtube.com/channel/UCZl69pb5Bg0FDtudE1Y77aw)
+2. [Xavki](https://www.youtube.com/c/JordyBayo)
+3. [Jordy Bayo](https://www.youtube.com/c/xavki-linux)
+
+**Partie 14: Blogs dédiés au DevOps**
+
+1. [eazytraining](https://eazytraining.fr/blog/)
+2. [Stéphane ROBERT](https://blog.stephane-robert.info/)
+3. [zerofiltre](https://zerofiltre.tech/articles)
+
+**Partie 14: Projets Git Dédidés au DevOps**
+
+1. [awesome french devops](https://github.com/stephrobert/awesome-french-devops)
+2. [DevOps Roadmap](https://github.com/milanm/DevOps-Roadmap)<sup>EN</sup>
+3. [90 Days Of DevOps](https://github.com/MichaelCade/90DaysOfDevOps)<sup>EN</sup>
+4. [devops exercises](https://github.com/bregman-arie/devops-exercises)<sup>EN</sup>
+
+**Partie 15: Certifications importantes**
+
+1. [Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
+2. [AWS Certified DevOps Engineer - Professional](https://aws.amazon.com/fr/certification/certified-devops-engineer-professional/)
+3. [Docker Certified Associate (DCA)](https://training.mirantis.com/certification/dca-certification-exam/)
+4. [HashiCorp Certified: Terraform Associate](https://www.hashicorp.com/certification/terraform-associate)
+
