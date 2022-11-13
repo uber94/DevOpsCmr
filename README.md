@@ -26,7 +26,9 @@ Le but de ce repo est de partager avec vous les étapes par lesquelles je suis p
 14. [Le CICD et ses avantages]()
 15. [Outils DevOps]()
 16. [Les types de tests]()
-17. [Rôles et responsabilités d'un DevOps]()
+17. [Les microservices]()
+18. [Le serverless]()
+19. [Rôles et responsabilités d'un DevOps]()
 
 **Partie 2: Systèmes d'exploitation et virtualisation**
 
