@@ -1,5 +1,5 @@
 
-## Point n°7 : Objectifs du DevOps
+## Point n°8 : Objectifs du DevOps
 
 <p align="center">
  <img src="../../img/devops-principles.png?raw=true" alt="DevOpsCmr Logo" width="50%" height="50%" />
