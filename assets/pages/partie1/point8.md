@@ -1,10 +1,6 @@
 
 ## Point n°8 : Objectifs du DevOps
 
-<p align="center">
- <img src="../../img/devops-principles.png?raw=true" alt="DevOpsCmr Logo" width="50%" height="50%" />
-</p>
-
 
 Les objectifs de DevOps sont nombreux et comprennent l'amélioration de la collaboration, de l'automatisation et de la livraison continue.
 
