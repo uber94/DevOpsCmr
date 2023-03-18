@@ -49,4 +49,6 @@ Cet élément est au cœur de tout workflow DevOps réussi, car il aide les équ
 L'instauration de la confiance entre les développeurs et les opérations est le principe fondamental de DevOps. Tout au long du cycle de développement et de déploiement, les équipes Dev et Ops doivent interagir, échanger des idées et travailler ensemble. Les deux parties sont chargées de veiller à ce que l'application fournisse le service attendu. Pour ce faire, les performances, les coûts et la prestation de services doivent être optimisés et améliorés en permanence, tout en maintenant la satisfaction du client.
 
 
-## Liens utiles 
+## Liens utiles
+- [5 Key DevOps principles](https://www.atlassian.com/devops/what-is-devops)
+- [DevOps Principles - The C.A.M.S. Model](https://www.youtube.com/watch?v=VySUutlo91E)
