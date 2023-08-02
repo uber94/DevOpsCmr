@@ -1,6 +1,11 @@
 # DevOpsCmr - Parcours DevOps
 
-Le but de ce repo est de partager avec les autres les étapes et outils qui nous ont servi dans notre voyage vers la culture DevOps. Tous les aspects ne seront bien évidemment pas couverts, mais l'idée est de fournir un point de départ aux personnes qui débutent ou aux curieux.
+<p align="center">
+ <img src="assets/img/logo.png?raw=true" alt="DevOpsCmr Logo" width="50%" height="50%" />
+</p>
+
+
+Le but de ce dépôt est de partager avec les autres les étapes et outils qui nous ont servi dans notre voyage vers la culture DevOps. Tous les aspects ne seront bien évidemment pas couverts, mais l'idée est de fournir un point de départ aux personnes qui débutent ou aux curieux.
 
 **SOMMAIRE**
 #
