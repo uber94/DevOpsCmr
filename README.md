@@ -102,13 +102,28 @@ Le but de ce dépôt est de partager avec les autres les étapes et outils qui n
 
 **Partie 7: Cloud Computing**
 
-**AWS**
+**Introduction au Cloud Computing**
+1. [Définition du Cloud Computing et ses avantages]()
+2. [Différence entre Cloud public, privé et hybride]()
+3. [Principaux fournisseurs Cloud (GCP, Azure, AWS) et comparaison]()
 
-**GCP**
+**Amazon Web Services (AWS) - Bases**
+1. [Vue d'ensemble d'Amazon Web Services (AWS) et ses principaux services]()
+2. [Création d'un compte AWS et configuration de l'environnement]()
+3. [Introduction à l'interface AWS Management Console]()
+4. [Présentation des services de calcul, de stockage et de base de données d'AWS]()
 
-**Azure**
+**Google Cloud Platform (GCP) - Bases**
+1. [Présentation de Google Cloud Platform et ses services clés]()
+2. [Création d'un compte GCP et configuration de l'environnement]()
+3. [Découverte de la console GCP]()
+4. [Présentation des services de calcul, de stockage et de base de données de GCP]()
 
-**ST DIGITAL**
+**Microsoft Azure - Bases**
+1. [Introduction à Microsoft Azure et vue d'ensemble des service]()
+2. [Création d'un compte Azure et configuration de l'environnement]()
+3. [Navigation dans le portail Azure]()
+4. [Présentation des services de calcul, de stockage et de base de données d'Azure]()
 
 **Partie 8: l'IaC: Terraform**
 
@@ -161,7 +176,9 @@ Le but de ce dépôt est de partager avec les autres les étapes et outils qui n
 13. [Ansible Galaxy]()
 14. [Paramétrages avancés]()
 
-**Partie 12: Monitoring - Prometheus et Grafana**
+**Partie 12: GitLab CI/CD**
+
+**Partie 13: Monitoring - Prometheus et Grafana**
 
 1. [Monitoring continu]()
 2. [Objectifs du Monitoring continu]()
@@ -171,26 +188,26 @@ Le but de ce dépôt est de partager avec les autres les étapes et outils qui n
 6. [C'est quoi Grafana ?]()
 7. [Cas pratique]()
 
-**Partie 13: Apprendre DevOps sur Youtube**
+**Partie 14: Apprendre DevOps sur Youtube**
 
 1. [eazytraining](https://www.youtube.com/channel/UCZl69pb5Bg0FDtudE1Y77aw)
 2. [Xavki](https://www.youtube.com/c/JordyBayo)
 3. [Jordy Bayo](https://www.youtube.com/c/xavki-linux)
 
-**Partie 14: Blogs dédiés au DevOps**
+**Partie 15: Blogs dédiés au DevOps**
 
 1. [eazytraining](https://eazytraining.fr/blog/)
 2. [Stéphane ROBERT](https://blog.stephane-robert.info/)
 3. [zerofiltre](https://zerofiltre.tech/articles)
 
-**Partie 14: Projets Git Dédidés au DevOps**
+**Partie 16: Projets Git Dédidés au DevOps**
 
 1. [awesome french devops](https://github.com/stephrobert/awesome-french-devops)
 2. [DevOps Roadmap](https://github.com/milanm/DevOps-Roadmap)<sup>EN</sup>
 3. [90 Days Of DevOps](https://github.com/MichaelCade/90DaysOfDevOps)<sup>EN</sup>
 4. [devops exercises](https://github.com/bregman-arie/devops-exercises)<sup>EN</sup>
 
-**Partie 15: Certifications importantes**
+**Partie 17: Certifications importantes**
 
 1. [Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
 2. [AWS Certified DevOps Engineer - Professional](https://aws.amazon.com/fr/certification/certified-devops-engineer-professional/)
