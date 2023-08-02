@@ -19,7 +19,7 @@ Le but de ce dépôt est de partager avec les autres les étapes et outils qui n
 6. [C'est quoi DevOps ?](assets/pages/partie1/point6.md)
 7. [Principes de la démarche DevOps](assets/pages/partie1/point7.md)
 8. [Objectifs de DevOps](assets/pages/partie1/point8.md)
-9. [Agile et DevOps]()
+9. [DevOps et agilité](assets/pages/partie1/point9.md)
 10. [Approche traditionnelle en silos]()
 11. [DevOps et automatisation]()
 12. [Intégration continue]()
